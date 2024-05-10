@@ -8,18 +8,6 @@
 		<data>
 		ZHT5FrMKijDNVpdyPF0ISnABtv0=
 		</data>
-		<key>Frameworks/Pods_GreenpOfferwall.framework/Info.plist</key>
-		<data>
-		yzSlmN02gLpxKdFVAsWVuoZVFKg=
-		</data>
-		<key>Frameworks/Pods_GreenpOfferwall.framework/Pods_GreenpOfferwall</key>
-		<data>
-		tkjGwp49GVOQmVR45DmyUVfQ4nk=
-		</data>
-		<key>Frameworks/Pods_GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
-		<data>
-		Juk6iWukaprCX1YsYqO1t/qVmJc=
-		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
 		L0O7DZZkJQ9AIs0fy27mI43rlwQ=
@@ -355,27 +343,6 @@
 			<key>hash2</key>
 			<data>
 			aFTyO2sQDWSI0b6tfbwUpug39bfotjorYrtkkWjuw0A=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_GreenpOfferwall.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gkcJD9oUQVJXRVor0/KYWObZbzsEJCs5GaybZsWZ4UM=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_GreenpOfferwall.framework/Pods_GreenpOfferwall</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J4Sr4uoy4284CsviN6otCFe4D1ffRR/jKISkzUlOHvc=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T7REt31euynzUqvACZsVKKwbuCyqN7aPZ/WmpuG+Vhg=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>

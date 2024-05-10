@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		3VNetYPcDLMmq1PBzsKhRXXiJ60=
-		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Assets.car</key>
 		<data>
 		ZHT5FrMKijDNVpdyPF0ISnABtv0=
@@ -327,18 +323,6 @@
 		<data>
 		ZHT5FrMKijDNVpdyPF0ISnABtv0=
 		</data>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Pods_GreenpOfferwall.framework/Info.plist</key>
-		<data>
-		yzSlmN02gLpxKdFVAsWVuoZVFKg=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Pods_GreenpOfferwall.framework/Pods_GreenpOfferwall</key>
-		<data>
-		tkjGwp49GVOQmVR45DmyUVfQ4nk=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Pods_GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
-		<data>
-		Juk6iWukaprCX1YsYqO1t/qVmJc=
-		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
 		L0O7DZZkJQ9AIs0fy27mI43rlwQ=
@@ -349,7 +333,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		WZ9ipqdKxlKe/1FQbqRqQkdEw7A=
+		LswaVxylBdIFBzHzrkJqBYA8eWU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -664,7 +648,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		rqHkpo5idv5ENxG4pvJefKZd8K8=
+		XA+ePdEOKBQpnppP/IjKBC3r6Q4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1323,39 +1307,6 @@
 			aFTyO2sQDWSI0b6tfbwUpug39bfotjorYrtkkWjuw0A=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Pods_GreenpOfferwall.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yzSlmN02gLpxKdFVAsWVuoZVFKg=
-			</data>
-			<key>hash2</key>
-			<data>
-			gkcJD9oUQVJXRVor0/KYWObZbzsEJCs5GaybZsWZ4UM=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Pods_GreenpOfferwall.framework/Pods_GreenpOfferwall</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tkjGwp49GVOQmVR45DmyUVfQ4nk=
-			</data>
-			<key>hash2</key>
-			<data>
-			J4Sr4uoy4284CsviN6otCFe4D1ffRR/jKISkzUlOHvc=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Pods_GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Juk6iWukaprCX1YsYqO1t/qVmJc=
-			</data>
-			<key>hash2</key>
-			<data>
-			T7REt31euynzUqvACZsVKKwbuCyqN7aPZ/WmpuG+Vhg=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -1382,11 +1333,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WZ9ipqdKxlKe/1FQbqRqQkdEw7A=
+			LswaVxylBdIFBzHzrkJqBYA8eWU=
 			</data>
 			<key>hash2</key>
 			<data>
-			EECn+9uj7OKGr330TBmyXPJiiNtf5AXjupkI3Lztp2c=
+			5EgE6AH0QL+ief22VBuoGnVpvBm5nl7LnEVmxWsmfaY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -2025,11 +1976,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rqHkpo5idv5ENxG4pvJefKZd8K8=
+			XA+ePdEOKBQpnppP/IjKBC3r6Q4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tGYcOn28W6BI3yEXytT1e6Xz4GzEKxJ6gRAXmLrZXO4=
+			r9kEz+WGy3NYvebG2ktMeuvdFYEJbk004bRXDJnDAs0=
 			</data>
 		</dict>
 	</dict>
