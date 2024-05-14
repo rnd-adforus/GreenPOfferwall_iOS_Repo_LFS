@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		JXKPMDnyEG4JaOsR7DYVS0KZgdw=
+		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Assets.car</key>
 		<data>
 		ZHT5FrMKijDNVpdyPF0ISnABtv0=
@@ -333,7 +337,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		LswaVxylBdIFBzHzrkJqBYA8eWU=
+		2hv5/Q2iUmcWu5jkhDqCWSDG2I4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -648,7 +652,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		XA+ePdEOKBQpnppP/IjKBC3r6Q4=
+		SUPecEN4oNz3w60H5511Ktu/Q8c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1333,11 +1337,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LswaVxylBdIFBzHzrkJqBYA8eWU=
+			2hv5/Q2iUmcWu5jkhDqCWSDG2I4=
 			</data>
 			<key>hash2</key>
 			<data>
-			5EgE6AH0QL+ief22VBuoGnVpvBm5nl7LnEVmxWsmfaY=
+			nJHCNbIJvnR+M/1kz+8PWXdrIUMnvH1eTNirG7XS6L4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -1976,11 +1980,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XA+ePdEOKBQpnppP/IjKBC3r6Q4=
+			SUPecEN4oNz3w60H5511Ktu/Q8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			r9kEz+WGy3NYvebG2ktMeuvdFYEJbk004bRXDJnDAs0=
+			bbseZmvMoHf9pePE8Rsmf9+9TvzeoJWpO/h9JHCpR+k=
 			</data>
 		</dict>
 	</dict>
