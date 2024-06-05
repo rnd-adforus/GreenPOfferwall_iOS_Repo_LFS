@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
+		<key>ios-arm64/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
-		JXKPMDnyEG4JaOsR7DYVS0KZgdw=
+		j4BXeJiElfTFYxCOi95Dpt9GgQU=
+		</data>
+		<key>ios-arm64/GreenpOfferwall.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Assets.car</key>
 		<data>
@@ -14,7 +18,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		5gK/RxyFuq7JnjNs2b99yXGvEgw=
+		wscnr7BaAbAJyYA6n9A26vlTWB4=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -22,7 +26,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		FmaIONJFuuGZ8CpjQ7WJPTfC2ow=
+		YMKVrlFq35Ps/pOyn4JaNHVbEcM=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -38,7 +42,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Ftmu8ac3fMB8W2dTeYqpYeIky4Q=
+		N3nb3uQM4dR6Kc8WtxqbZuOY+AU=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -74,21 +78,21 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/Assets.car</key>
 		<data>
-		P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+		UrPpP43KLnPkbxMD0huS6fvsfjM=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/Info.plist</key>
 		<data>
-		oivDmWZl0xFk7xFDiXfKXWRbraw=
+		nzDAcgidEA7JyHwXx4x/38M+xEk=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
-		CuKnx6erFVqn6Bb3/O1B/slSB2A=
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -117,7 +121,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -126,7 +130,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -135,7 +139,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -144,7 +148,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -153,7 +157,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -162,7 +166,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -171,7 +175,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -180,7 +184,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -189,7 +193,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -198,7 +202,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -211,7 +215,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -220,7 +224,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -229,7 +233,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -246,7 +250,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -255,20 +259,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/version.txt</key>
 		<data>
-		qckJM7vHaV62VsHkwiCFZAz/TnQ=
+		wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -277,7 +281,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -286,14 +290,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		sE/YI207v9ZlIFKLkm8sNNUny9E=
+		CtiN3zflwMaf9vJTlApOl+fOOJ4=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/UAdNativeAdContainer.nib</key>
 		<data>
@@ -303,13 +307,21 @@
 		<data>
 		YwX5ZS6BPoaFYpqkZTDLqYM9pEA=
 		</data>
-		<key>ios-arm64/GreenpOfferwall.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		zVtt7QH+vq2WIW8tMuUMHCctxN8=
+		gMMYRPEnhb4Fzt81RWS5Ncok8YM=
 		</data>
-		<key>ios-arm64/GreenpOfferwall.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		Vmr7Tv9rcKyDvK3D48LDE7Da57Y=
+		</data>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<data>
+		CYrPj5o14ZkSV5tSn5grkOsAghM=
+		</data>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<data>
+		xFoo41tIvFKNNRq9NwW500wQtM8=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -321,7 +333,15 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		8zyjF0z6+kwaTa0rnVict7OefVI=
+		vyTMNbNVn2D/WETWl+7o7+RVRqU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
+		<data>
+		tBwXDLUwn+jMktQV+fsnTNJYvMw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Assets.car</key>
 		<data>
@@ -329,7 +349,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		L0O7DZZkJQ9AIs0fy27mI43rlwQ=
+		B71XncgUJZGP+4CuX7UdN3VsYLI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -337,7 +357,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		2hv5/Q2iUmcWu5jkhDqCWSDG2I4=
+		/Cn9bNkhmgHFCgAUafJNC+kgphM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -353,7 +373,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		TviyWR9VbICQNDK1DxsD1UMKGbw=
+		xwkyMvy0Z5ZTUns2PmS2yyvEkmQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -369,7 +389,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TviyWR9VbICQNDK1DxsD1UMKGbw=
+		xwkyMvy0Z5ZTUns2PmS2yyvEkmQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -405,21 +425,21 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/Assets.car</key>
 		<data>
-		P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+		UrPpP43KLnPkbxMD0huS6fvsfjM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/Info.plist</key>
 		<data>
-		oivDmWZl0xFk7xFDiXfKXWRbraw=
+		nzDAcgidEA7JyHwXx4x/38M+xEk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
-		CuKnx6erFVqn6Bb3/O1B/slSB2A=
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -448,7 +468,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -457,7 +477,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -466,7 +486,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -475,7 +495,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -484,7 +504,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -493,7 +513,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -502,7 +522,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -511,7 +531,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -520,7 +540,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -529,7 +549,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -542,7 +562,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -551,7 +571,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -560,7 +580,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -577,7 +597,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -586,20 +606,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/version.txt</key>
 		<data>
-		qckJM7vHaV62VsHkwiCFZAz/TnQ=
+		wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -608,7 +628,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -617,14 +637,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		sE/YI207v9ZlIFKLkm8sNNUny9E=
+		CtiN3zflwMaf9vJTlApOl+fOOJ4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UAdNativeAdContainer.nib</key>
 		<data>
@@ -634,13 +654,21 @@
 		<data>
 		YwX5ZS6BPoaFYpqkZTDLqYM9pEA=
 		</data>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		zyjKmDr9cG4oOUozs+bT+wEQqYI=
+		B0cBxLSCW98vpj+cFPghejtzalg=
 		</data>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		Vmr7Tv9rcKyDvK3D48LDE7Da57Y=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<data>
+		CYrPj5o14ZkSV5tSn5grkOsAghM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<data>
+		xFoo41tIvFKNNRq9NwW500wQtM8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -652,11 +680,33 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		SUPecEN4oNz3w60H5511Ktu/Q8c=
+		Ry4DBSReB8yaWllT/knKBEnQrPQ=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>ios-arm64/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j4BXeJiElfTFYxCOi95Dpt9GgQU=
+			</data>
+			<key>hash2</key>
+			<data>
+			UvPgb73HLngFgrUTX/mQO1DlCyoQMVo9n9Mb4s5ZbVE=
+			</data>
+		</dict>
+		<key>ios-arm64/GreenpOfferwall.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
+			</data>
+			<key>hash2</key>
+			<data>
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
+			</data>
+		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/Assets.car</key>
 		<dict>
 			<key>hash</key>
@@ -672,11 +722,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5gK/RxyFuq7JnjNs2b99yXGvEgw=
+			wscnr7BaAbAJyYA6n9A26vlTWB4=
 			</data>
 			<key>hash2</key>
 			<data>
-			h6nGBuXWutXfnyAM5vsAJz7dYIUBKwH8qbe2wGCyh8U=
+			V/+hPCwF2bXspwxMAi30Arve08mdrIIokrSoaZqey9s=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -694,11 +744,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FmaIONJFuuGZ8CpjQ7WJPTfC2ow=
+			YMKVrlFq35Ps/pOyn4JaNHVbEcM=
 			</data>
 			<key>hash2</key>
 			<data>
-			BV+1S3ne/PL7i4hljAcFrQJDLSnVaCPup2LAYgg6kgQ=
+			oK1w7ZDi4Dbkyq1d9LvP82heiue1udWQp5EHLucfv1w=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -738,11 +788,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ftmu8ac3fMB8W2dTeYqpYeIky4Q=
+			N3nb3uQM4dR6Kc8WtxqbZuOY+AU=
 			</data>
 			<key>hash2</key>
 			<data>
-			PVT0kfL7DvaM3C4J5NG11PiGoQW1Nnm2/mOcUujR0Eg=
+			vuQpAJ8cCX3YZG4T6mNrFUAe4N3BVpzBwlzIKx07fz4=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -837,44 +887,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+			UrPpP43KLnPkbxMD0huS6fvsfjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YxqKhqfQ+Vpv5WtyfQdutGDG/PzGNcAn+LuV4oTDpMk=
+			s4F5CvmYgjTk7cegdPwLoDmSEPwY7fTWx3GQCVAZBEs=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oivDmWZl0xFk7xFDiXfKXWRbraw=
+			nzDAcgidEA7JyHwXx4x/38M+xEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1uD7EhplsWUczaPOzCv2yBZSL1RwSA4M1gg3w8MVihA=
+			+1h7j1t0y7VIYUQWPTkGR9p3hgfMliJ1FXP18XVyeuk=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CuKnx6erFVqn6Bb3/O1B/slSB2A=
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			X0Xj+FR91iFgNRnDa5mIeJ1FKubEiMGUJfnb2k6jH7I=
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ogwb3G09qvCoBVP/UUl9Ugmmmuj5fUV9PfauudZpGtI=
+			dShjCXAjRpH2/6vYEw1GNWl6/8Pf/1ebKmv7jpBAur0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -938,11 +988,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>hash2</key>
 			<data>
-			JQEw0lrzw1OvTuga5hAmHVoZlrqRCnBlEiWa2AAgFqg=
+			L8LyBjl4+gCYiH2ob96UVE0pMi8bqKjivRlkyNWD4lM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -951,11 +1001,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+TGPo7+NsfS5uzyM9R+OIfzGhTeyUWv9RXiEBZ6idE8=
+			io08t+wX0Q05YM/MWVHq7DgwkYjLqx/6gB9Feumtngs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -964,11 +1014,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>hash2</key>
 			<data>
-			nTqli4eWwIj4ZGPQ1N1BiiONAQxlu5vLwdOiSut6yKE=
+			O/zE+6RbSukdeEf6YOuFSgVD+yhI2XVJTUdmqKoueSw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -977,11 +1027,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJWFRLXALNXrT3xpzzdaJ+bpSieF9xK8q6ZDKk3T/9E=
+			A158r2IWMd1vgWVkKZsAFNZJxg+UCP+jOyMov42hyhs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -990,11 +1040,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+edIrtEfrVQjz0FVge+wY/CazjoLvzVpNMLWZQl3Ug8=
+			FP2Fbxn3a5/RZ/eoBqx9PNbYcqb/v9ikw8EcMBCIKsM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1003,11 +1053,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			omEXmr+MrqmW318oHVAD3sMqjxVjHhgUXNFRDapTQcc=
+			nW5apDuJrMLzXQu9t9RR/AbTmo/BSoafp7zUsU3YMdg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1016,11 +1066,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>hash2</key>
 			<data>
-			UspVuRNZQrnbtg23nKYxxTUP4oej5ASo/+/l6CJPd0Y=
+			CB6Qy5wRPAzcZIPiyyme15E3Y0SgLvumpF9EKQtuRpY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1029,11 +1079,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			y4T/3JMpKV9sVGzJIJGTaeK4DYG+1F0zUnCmLjxR80s=
+			ZOamkKCCJhUlPZWpxwd54Wf9l1nuSIK6/F2ITlpunLY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1042,11 +1092,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ivlxIrgJsGNfc2zEq1D91WCb9UZ014t1/+vv/HYsx40=
+			bqiWFCLI1pNOXU3gf0wIjTFoX6TozQEG3mnyWXVq/MY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1055,11 +1105,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xDWXuncGKbzKGKF5GDXxoIy62AtifBhRLpR8PLJDEaI=
+			UC2i63NJi5WOGzkmXZaRR1qP11jVoFvtv6qyCkEUnlk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1079,11 +1129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hq7h608uS6xrXnheLvAmQcphvG9O+CRY7DdYlNNkLA=
+			iKb3qTGlrwLyoWHwJXkgmYDgytEvFpQLvMuKfnUY/Fo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1092,11 +1142,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			og8bK6e5YUBh0/CZXVgj3klvBY2eoao5r79gZ/eJq2c=
+			vneXsIUSdNVGIbFz+1BT12BvCw7NvM+FaiQmn7Tiupw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1105,11 +1155,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yiw1Pi0Jga4u1zOXmSORiprxAm5yg/NBDY4f7EpHjGA=
+			HwLgI99tR9x5xiTJCg+dZZZqP1keIiRMyiM6te67tMQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1140,11 +1190,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vdGPPGdaiJkK8qW1JU/ej5HRXaUxL6VpZ3NmbctEyWI=
+			zJxBMa19gID3am+FbOWS7hC8QVncCsl5mZgmNwCpKmI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1153,11 +1203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			H8iyIhfcwpoD5csgpoECx4cAUURHfovhlTt4LNzq54o=
+			3kUIAPfK0iKCqh3UPmp3aqFWIDL/ZhVBTNXIAXrumrA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1166,22 +1216,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qckJM7vHaV62VsHkwiCFZAz/TnQ=
+			wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DDqwBKUR1W3Q5jp1Qh7UIwDHrp7G5cO9B/FWJWK2m64=
+			1wbFVOYarJxeoWAhntvReUj3eju0dLpsm4Xz2T+PM7c=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			yjWump6NX9M3tuJVPK6DmYwMBz8t9dn34/n77eoBKf4=
+			DlWsmp6I0FRrOz6yVHn8S+23vY3s8Ko9Pz3Lq6Vegu4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1190,11 +1240,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			B8l3TQIP4rnAXDAY4L9k9jCfVCRns9yI+6flUbimsPo=
+			YMztNgl/h5BT9k2orUMnlAGdHHedBM6t0SvaKF7y2aU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1203,11 +1253,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			UKJseHwV/QB0f8dW5YiCCP+CiXmt+U0AX7zdvQIXxR4=
+			XToq3Se0w85ke14QXVHqp7gjsqlFlSHq6tESxgvqZVE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1216,11 +1266,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sE/YI207v9ZlIFKLkm8sNNUny9E=
+			CtiN3zflwMaf9vJTlApOl+fOOJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/7tetQGDpzrqVleKLunF7JexgV40r1jZIKvUa5HOS0M=
+			9EXf1/bJxmXB/ynX3+pdWcPdXmbbgPmzpVoELa+esaU=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/UAdNativeAdContainer.nib</key>
@@ -1245,18 +1295,18 @@
 			Dc5k5ADkX1PpfyeJDPY6dQxkw66kgzttR81Bvyt2oGU=
 			</data>
 		</dict>
-		<key>ios-arm64/GreenpOfferwall.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zVtt7QH+vq2WIW8tMuUMHCctxN8=
+			gMMYRPEnhb4Fzt81RWS5Ncok8YM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XWgC5S8XUsFyono9u5DD4q39cH9W3ujuQw9nWFtCXqs=
+			CeyDDvZIiNYmEKcmQGgnT2LV6gW0Rof3+cwR5TeVTzw=
 			</data>
 		</dict>
-		<key>ios-arm64/GreenpOfferwall.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1265,6 +1315,28 @@
 			<key>hash2</key>
 			<data>
 			f3FIPJmP/SZx3Vlg4pLmKnlyAbkHD2JKFo75koJnVG4=
+			</data>
+		</dict>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYrPj5o14ZkSV5tSn5grkOsAghM=
+			</data>
+			<key>hash2</key>
+			<data>
+			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
+			</data>
+		</dict>
+		<key>ios-arm64/GreenpOfferwall.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xFoo41tIvFKNNRq9NwW500wQtM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
@@ -1293,11 +1365,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8zyjF0z6+kwaTa0rnVict7OefVI=
+			vyTMNbNVn2D/WETWl+7o7+RVRqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nzKRZwSMTZRpMLWezo0gMwIM5XY71sMB4bK3qkdKhoc=
+			jD3PXT+x6OvY+1BONwg2MUaInzRZip+T5whYP+vwzgA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tBwXDLUwn+jMktQV+fsnTNJYvMw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ahOL1GsbAteOBBSRC5ZWmoOyx8yUQ8JRNzxRq74XAvQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
+			</data>
+			<key>hash2</key>
+			<data>
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Assets.car</key>
@@ -1315,11 +1409,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L0O7DZZkJQ9AIs0fy27mI43rlwQ=
+			B71XncgUJZGP+4CuX7UdN3VsYLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			GPqW56T85MzonlifNFrWV13v6uvKEp8fCf17iwJqr1M=
+			p3RBqztBl8/e+coTFHR1FT8X90oqb1rE2z1Usyp0Cdc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1337,11 +1431,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2hv5/Q2iUmcWu5jkhDqCWSDG2I4=
+			/Cn9bNkhmgHFCgAUafJNC+kgphM=
 			</data>
 			<key>hash2</key>
 			<data>
-			nJHCNbIJvnR+M/1kz+8PWXdrIUMnvH1eTNirG7XS6L4=
+			ZxKeikCi98+qdTrwWtK+Sl1FEFn2TFCcGrlixDTs06s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -1381,11 +1475,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TviyWR9VbICQNDK1DxsD1UMKGbw=
+			xwkyMvy0Z5ZTUns2PmS2yyvEkmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			en5dTjghbPBwIrxGxjEV8++GVDVuc0YMMcfQmXEeRKs=
+			E61yJU+xOgDTqMq75rd/dgZEkhn+7Q2/GWMVt0PR+3U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1425,11 +1519,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TviyWR9VbICQNDK1DxsD1UMKGbw=
+			xwkyMvy0Z5ZTUns2PmS2yyvEkmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			en5dTjghbPBwIrxGxjEV8++GVDVuc0YMMcfQmXEeRKs=
+			E61yJU+xOgDTqMq75rd/dgZEkhn+7Q2/GWMVt0PR+3U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1524,44 +1618,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+			UrPpP43KLnPkbxMD0huS6fvsfjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YxqKhqfQ+Vpv5WtyfQdutGDG/PzGNcAn+LuV4oTDpMk=
+			s4F5CvmYgjTk7cegdPwLoDmSEPwY7fTWx3GQCVAZBEs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oivDmWZl0xFk7xFDiXfKXWRbraw=
+			nzDAcgidEA7JyHwXx4x/38M+xEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1uD7EhplsWUczaPOzCv2yBZSL1RwSA4M1gg3w8MVihA=
+			+1h7j1t0y7VIYUQWPTkGR9p3hgfMliJ1FXP18XVyeuk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CuKnx6erFVqn6Bb3/O1B/slSB2A=
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			X0Xj+FR91iFgNRnDa5mIeJ1FKubEiMGUJfnb2k6jH7I=
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ogwb3G09qvCoBVP/UUl9Ugmmmuj5fUV9PfauudZpGtI=
+			dShjCXAjRpH2/6vYEw1GNWl6/8Pf/1ebKmv7jpBAur0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1625,11 +1719,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>hash2</key>
 			<data>
-			JQEw0lrzw1OvTuga5hAmHVoZlrqRCnBlEiWa2AAgFqg=
+			L8LyBjl4+gCYiH2ob96UVE0pMi8bqKjivRlkyNWD4lM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1638,11 +1732,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+TGPo7+NsfS5uzyM9R+OIfzGhTeyUWv9RXiEBZ6idE8=
+			io08t+wX0Q05YM/MWVHq7DgwkYjLqx/6gB9Feumtngs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1651,11 +1745,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>hash2</key>
 			<data>
-			nTqli4eWwIj4ZGPQ1N1BiiONAQxlu5vLwdOiSut6yKE=
+			O/zE+6RbSukdeEf6YOuFSgVD+yhI2XVJTUdmqKoueSw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1664,11 +1758,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJWFRLXALNXrT3xpzzdaJ+bpSieF9xK8q6ZDKk3T/9E=
+			A158r2IWMd1vgWVkKZsAFNZJxg+UCP+jOyMov42hyhs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1677,11 +1771,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+edIrtEfrVQjz0FVge+wY/CazjoLvzVpNMLWZQl3Ug8=
+			FP2Fbxn3a5/RZ/eoBqx9PNbYcqb/v9ikw8EcMBCIKsM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1690,11 +1784,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			omEXmr+MrqmW318oHVAD3sMqjxVjHhgUXNFRDapTQcc=
+			nW5apDuJrMLzXQu9t9RR/AbTmo/BSoafp7zUsU3YMdg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1703,11 +1797,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>hash2</key>
 			<data>
-			UspVuRNZQrnbtg23nKYxxTUP4oej5ASo/+/l6CJPd0Y=
+			CB6Qy5wRPAzcZIPiyyme15E3Y0SgLvumpF9EKQtuRpY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1716,11 +1810,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			y4T/3JMpKV9sVGzJIJGTaeK4DYG+1F0zUnCmLjxR80s=
+			ZOamkKCCJhUlPZWpxwd54Wf9l1nuSIK6/F2ITlpunLY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1729,11 +1823,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ivlxIrgJsGNfc2zEq1D91WCb9UZ014t1/+vv/HYsx40=
+			bqiWFCLI1pNOXU3gf0wIjTFoX6TozQEG3mnyWXVq/MY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1742,11 +1836,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xDWXuncGKbzKGKF5GDXxoIy62AtifBhRLpR8PLJDEaI=
+			UC2i63NJi5WOGzkmXZaRR1qP11jVoFvtv6qyCkEUnlk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1766,11 +1860,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hq7h608uS6xrXnheLvAmQcphvG9O+CRY7DdYlNNkLA=
+			iKb3qTGlrwLyoWHwJXkgmYDgytEvFpQLvMuKfnUY/Fo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1779,11 +1873,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			og8bK6e5YUBh0/CZXVgj3klvBY2eoao5r79gZ/eJq2c=
+			vneXsIUSdNVGIbFz+1BT12BvCw7NvM+FaiQmn7Tiupw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1792,11 +1886,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yiw1Pi0Jga4u1zOXmSORiprxAm5yg/NBDY4f7EpHjGA=
+			HwLgI99tR9x5xiTJCg+dZZZqP1keIiRMyiM6te67tMQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1827,11 +1921,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vdGPPGdaiJkK8qW1JU/ej5HRXaUxL6VpZ3NmbctEyWI=
+			zJxBMa19gID3am+FbOWS7hC8QVncCsl5mZgmNwCpKmI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1840,11 +1934,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			H8iyIhfcwpoD5csgpoECx4cAUURHfovhlTt4LNzq54o=
+			3kUIAPfK0iKCqh3UPmp3aqFWIDL/ZhVBTNXIAXrumrA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1853,22 +1947,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qckJM7vHaV62VsHkwiCFZAz/TnQ=
+			wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DDqwBKUR1W3Q5jp1Qh7UIwDHrp7G5cO9B/FWJWK2m64=
+			1wbFVOYarJxeoWAhntvReUj3eju0dLpsm4Xz2T+PM7c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			yjWump6NX9M3tuJVPK6DmYwMBz8t9dn34/n77eoBKf4=
+			DlWsmp6I0FRrOz6yVHn8S+23vY3s8Ko9Pz3Lq6Vegu4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1877,11 +1971,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			B8l3TQIP4rnAXDAY4L9k9jCfVCRns9yI+6flUbimsPo=
+			YMztNgl/h5BT9k2orUMnlAGdHHedBM6t0SvaKF7y2aU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1890,11 +1984,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			UKJseHwV/QB0f8dW5YiCCP+CiXmt+U0AX7zdvQIXxR4=
+			XToq3Se0w85ke14QXVHqp7gjsqlFlSHq6tESxgvqZVE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1903,11 +1997,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sE/YI207v9ZlIFKLkm8sNNUny9E=
+			CtiN3zflwMaf9vJTlApOl+fOOJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/7tetQGDpzrqVleKLunF7JexgV40r1jZIKvUa5HOS0M=
+			9EXf1/bJxmXB/ynX3+pdWcPdXmbbgPmzpVoELa+esaU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UAdNativeAdContainer.nib</key>
@@ -1932,18 +2026,18 @@
 			Dc5k5ADkX1PpfyeJDPY6dQxkw66kgzttR81Bvyt2oGU=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zyjKmDr9cG4oOUozs+bT+wEQqYI=
+			B0cBxLSCW98vpj+cFPghejtzalg=
 			</data>
 			<key>hash2</key>
 			<data>
-			FNnJB0wRQvACzSoZAgMJ9DZgGQn8FhxpkFnsjMNuOsg=
+			bEn5pXBvnOzJMVS6iI8I75hZbnIxHcLDGO8ChcIRvdg=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1952,6 +2046,28 @@
 			<key>hash2</key>
 			<data>
 			f3FIPJmP/SZx3Vlg4pLmKnlyAbkHD2JKFo75koJnVG4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYrPj5o14ZkSV5tSn5grkOsAghM=
+			</data>
+			<key>hash2</key>
+			<data>
+			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xFoo41tIvFKNNRq9NwW500wQtM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
@@ -1980,11 +2096,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SUPecEN4oNz3w60H5511Ktu/Q8c=
+			Ry4DBSReB8yaWllT/knKBEnQrPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bbseZmvMoHf9pePE8Rsmf9+9TvzeoJWpO/h9JHCpR+k=
+			OFmntyqpdQv4dqsf/KMDMIempYwqIzNyNWg5LLy9Agw=
 			</data>
 		</dict>
 	</dict>
