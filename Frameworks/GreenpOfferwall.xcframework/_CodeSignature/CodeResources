@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		lFe6TzvfRZSAdaYjbD3jY+0BMVI=
+		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
 		j4BXeJiElfTFYxCOi95Dpt9GgQU=
@@ -16,6 +20,22 @@
 		<data>
 		ZHT5FrMKijDNVpdyPF0ISnABtv0=
 		</data>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/Flutter</key>
+		<data>
+		Cm6lFiA902DqjyxPSsz+zCf6vNw=
+		</data>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/Info.plist</key>
+		<data>
+		S+Kn7WK9ObhdXv0VL6WrMTgWBZg=
+		</data>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
+		<data>
+		HBzMl03uBR9DpnJPy2hIdLyA9FA=
+		</data>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/icudtl.dat</key>
+		<data>
+		Ubat0LvE4LUgCwHeyl0Anx2vnzk=
+		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
 		wscnr7BaAbAJyYA6n9A26vlTWB4=
@@ -26,7 +46,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		YMKVrlFq35Ps/pOyn4JaNHVbEcM=
+		PwqcZY/ZB6pAudSt/LUV6jnTsks=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -333,7 +353,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		vyTMNbNVn2D/WETWl+7o7+RVRqU=
+		lncgDgGZiVfiNekO4MRWdwPnU5U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
@@ -347,6 +367,22 @@
 		<data>
 		ZHT5FrMKijDNVpdyPF0ISnABtv0=
 		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/Flutter</key>
+		<data>
+		OAn94kAJHOZm3VxAfUs4UZl3mkE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/Info.plist</key>
+		<data>
+		S+Kn7WK9ObhdXv0VL6WrMTgWBZg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
+		<data>
+		HBzMl03uBR9DpnJPy2hIdLyA9FA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/icudtl.dat</key>
+		<data>
+		Ubat0LvE4LUgCwHeyl0Anx2vnzk=
+		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
 		B71XncgUJZGP+4CuX7UdN3VsYLI=
@@ -357,7 +393,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		/Cn9bNkhmgHFCgAUafJNC+kgphM=
+		Gvw8T4MAwjhqoTCmu3VAvx4PmNM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -680,7 +716,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Ry4DBSReB8yaWllT/knKBEnQrPQ=
+		D4LAk5aqTSY3L3eEOT+VmVBGmww=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -718,6 +754,50 @@
 			aFTyO2sQDWSI0b6tfbwUpug39bfotjorYrtkkWjuw0A=
 			</data>
 		</dict>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/Flutter</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cm6lFiA902DqjyxPSsz+zCf6vNw=
+			</data>
+			<key>hash2</key>
+			<data>
+			r55bdKY+FmW7Kg6bhVanSI7GPM7ERWLN05858AsWnMU=
+			</data>
+		</dict>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S+Kn7WK9ObhdXv0VL6WrMTgWBZg=
+			</data>
+			<key>hash2</key>
+			<data>
+			1z6Wj/jvEPkJpyzSHOTJCOlg4EfZ+36/eKqh9TSqmkU=
+			</data>
+		</dict>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HBzMl03uBR9DpnJPy2hIdLyA9FA=
+			</data>
+			<key>hash2</key>
+			<data>
+			bCtzif+HNgJBpkZLPys6YCW2as0vI3lIdK9Mieu47Kg=
+			</data>
+		</dict>
+		<key>ios-arm64/GreenpOfferwall.framework/Frameworks/Flutter.framework/icudtl.dat</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ubat0LvE4LUgCwHeyl0Anx2vnzk=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZepykIMSjfzhwAcmupMrkaqvXkhza1ZE3TdHjl8odaw=
+			</data>
+		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -744,11 +824,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YMKVrlFq35Ps/pOyn4JaNHVbEcM=
+			PwqcZY/ZB6pAudSt/LUV6jnTsks=
 			</data>
 			<key>hash2</key>
 			<data>
-			oK1w7ZDi4Dbkyq1d9LvP82heiue1udWQp5EHLucfv1w=
+			6xJVE+Fd//CkoamT1tHjVeSbT5ZGimTcIEiJ1B//uuY=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -1365,11 +1445,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vyTMNbNVn2D/WETWl+7o7+RVRqU=
+			lncgDgGZiVfiNekO4MRWdwPnU5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			jD3PXT+x6OvY+1BONwg2MUaInzRZip+T5whYP+vwzgA=
+			+dFci/Fn9gy5J5Qr3cVX6ed4/7UuUwCHjlmmKzEMyQk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
@@ -1405,6 +1485,50 @@
 			aFTyO2sQDWSI0b6tfbwUpug39bfotjorYrtkkWjuw0A=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/Flutter</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OAn94kAJHOZm3VxAfUs4UZl3mkE=
+			</data>
+			<key>hash2</key>
+			<data>
+			3zRs85KMI22Pj/hjRymNnPpJv+zWAM3/0vo7dTUI2oU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S+Kn7WK9ObhdXv0VL6WrMTgWBZg=
+			</data>
+			<key>hash2</key>
+			<data>
+			1z6Wj/jvEPkJpyzSHOTJCOlg4EfZ+36/eKqh9TSqmkU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HBzMl03uBR9DpnJPy2hIdLyA9FA=
+			</data>
+			<key>hash2</key>
+			<data>
+			bCtzif+HNgJBpkZLPys6YCW2as0vI3lIdK9Mieu47Kg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Frameworks/Flutter.framework/icudtl.dat</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ubat0LvE4LUgCwHeyl0Anx2vnzk=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZepykIMSjfzhwAcmupMrkaqvXkhza1ZE3TdHjl8odaw=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -1431,11 +1555,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Cn9bNkhmgHFCgAUafJNC+kgphM=
+			Gvw8T4MAwjhqoTCmu3VAvx4PmNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZxKeikCi98+qdTrwWtK+Sl1FEFn2TFCcGrlixDTs06s=
+			McHUrlcpNu1oN4uHUd6VdJOzSzfisIgrdEwtX2ohdi8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -2096,11 +2220,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ry4DBSReB8yaWllT/knKBEnQrPQ=
+			D4LAk5aqTSY3L3eEOT+VmVBGmww=
 			</data>
 			<key>hash2</key>
 			<data>
-			OFmntyqpdQv4dqsf/KMDMIempYwqIzNyNWg5LLy9Agw=
+			FrzDkDHmi7HSQtLZWL1E7Tp7b6JvGUImYwpC6fxUDCc=
 			</data>
 		</dict>
 	</dict>

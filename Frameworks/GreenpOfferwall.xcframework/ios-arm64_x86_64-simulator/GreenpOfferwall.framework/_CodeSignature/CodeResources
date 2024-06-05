@@ -16,6 +16,22 @@
 		<data>
 		ZHT5FrMKijDNVpdyPF0ISnABtv0=
 		</data>
+		<key>Frameworks/Flutter.framework/Flutter</key>
+		<data>
+		OAn94kAJHOZm3VxAfUs4UZl3mkE=
+		</data>
+		<key>Frameworks/Flutter.framework/Info.plist</key>
+		<data>
+		S+Kn7WK9ObhdXv0VL6WrMTgWBZg=
+		</data>
+		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
+		<data>
+		HBzMl03uBR9DpnJPy2hIdLyA9FA=
+		</data>
+		<key>Frameworks/Flutter.framework/icudtl.dat</key>
+		<data>
+		Ubat0LvE4LUgCwHeyl0Anx2vnzk=
+		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
 		B71XncgUJZGP+4CuX7UdN3VsYLI=
@@ -373,6 +389,34 @@
 			<key>hash2</key>
 			<data>
 			aFTyO2sQDWSI0b6tfbwUpug39bfotjorYrtkkWjuw0A=
+			</data>
+		</dict>
+		<key>Frameworks/Flutter.framework/Flutter</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3zRs85KMI22Pj/hjRymNnPpJv+zWAM3/0vo7dTUI2oU=
+			</data>
+		</dict>
+		<key>Frameworks/Flutter.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1z6Wj/jvEPkJpyzSHOTJCOlg4EfZ+36/eKqh9TSqmkU=
+			</data>
+		</dict>
+		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bCtzif+HNgJBpkZLPys6YCW2as0vI3lIdK9Mieu47Kg=
+			</data>
+		</dict>
+		<key>Frameworks/Flutter.framework/icudtl.dat</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZepykIMSjfzhwAcmupMrkaqvXkhza1ZE3TdHjl8odaw=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
