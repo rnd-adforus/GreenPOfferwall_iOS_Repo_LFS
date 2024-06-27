@@ -2834,7 +2834,7 @@
       "kind": "StringLiteral",
       "offset": 727,
       "length": 9,
-      "value": "\"3.2.0.0\""
+      "value": "\"3.2.1.0\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Constants.swift",
@@ -3546,266 +3546,266 @@
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 1744,
+      "offset": 1798,
       "length": 9,
       "value": "\"appcode\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 1744,
+      "offset": 1798,
       "length": 9,
       "value": "\"appcode\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2680,
+      "offset": 2734,
       "length": 11,
       "value": "\"list_type\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2745,
+      "offset": 2799,
       "length": 7,
       "value": "\"color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2786,
+      "offset": 2840,
       "length": 16,
       "value": "\"small_bg_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2832,
+      "offset": 2886,
       "length": 12,
       "value": "\"font_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2877,
+      "offset": 2931,
       "length": 18,
       "value": "\"small_font_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2924,
+      "offset": 2978,
       "length": 11,
       "value": "\"btn_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2964,
+      "offset": 3018,
       "length": 9,
       "value": "\"imp_chk\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3002,
+      "offset": 3056,
       "length": 11,
       "value": "\"icon_view\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3041,
+      "offset": 3095,
       "length": 10,
       "value": "\"icon_img\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3079,
+      "offset": 3133,
       "length": 12,
       "value": "\"cate_order\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3124,
+      "offset": 3178,
       "length": 12,
       "value": "\"search_use\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3175,
+      "offset": 3229,
       "length": 9,
       "value": "\"top_msg\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3215,
+      "offset": 3269,
       "length": 10,
       "value": "\"cate_use\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3259,
+      "offset": 3313,
       "length": 9,
       "value": "\"ssm_use\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3295,
+      "offset": 3349,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2680,
+      "offset": 2734,
       "length": 11,
       "value": "\"list_type\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2745,
+      "offset": 2799,
       "length": 7,
       "value": "\"color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2786,
+      "offset": 2840,
       "length": 16,
       "value": "\"small_bg_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2832,
+      "offset": 2886,
       "length": 12,
       "value": "\"font_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2877,
+      "offset": 2931,
       "length": 18,
       "value": "\"small_font_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2924,
+      "offset": 2978,
       "length": 11,
       "value": "\"btn_color\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 2964,
+      "offset": 3018,
       "length": 9,
       "value": "\"imp_chk\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3002,
+      "offset": 3056,
       "length": 11,
       "value": "\"icon_view\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3041,
+      "offset": 3095,
       "length": 10,
       "value": "\"icon_img\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3079,
+      "offset": 3133,
       "length": 12,
       "value": "\"cate_order\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3124,
+      "offset": 3178,
       "length": 12,
       "value": "\"search_use\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3175,
+      "offset": 3229,
       "length": 9,
       "value": "\"top_msg\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3215,
+      "offset": 3269,
       "length": 10,
       "value": "\"cate_use\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3259,
+      "offset": 3313,
       "length": 9,
       "value": "\"ssm_use\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3295,
+      "offset": 3349,
       "length": 9,
       "value": "\"zone_id\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3392,
+      "offset": 3446,
       "length": 3,
       "value": "\"L\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3420,
+      "offset": 3474,
       "length": 3,
       "value": "\"F\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3392,
+      "offset": 3446,
       "length": 3,
       "value": "\"L\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3420,
+      "offset": 3474,
       "length": 3,
       "value": "\"F\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3706,
+      "offset": 3760,
       "length": 13,
       "value": "\"filter_list\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Models\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 3706,
+      "offset": 3760,
       "length": 13,
       "value": "\"filter_list\""
     },

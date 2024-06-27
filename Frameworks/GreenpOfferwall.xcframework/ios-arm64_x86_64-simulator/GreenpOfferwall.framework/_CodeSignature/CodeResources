@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FCUW1jAVuyV5RYxb36XohDz6XDI=
+		lMicKjKmYbUx0RDpvbKIUUcvzJc=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		surqQibuh6BMVqLTbez2ynTpGro=
+		bL1vGyDzg6UvF8KifLHTk5zYiVs=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FCUW1jAVuyV5RYxb36XohDz6XDI=
+		lMicKjKmYbUx0RDpvbKIUUcvzJc=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kymD2il/28c/veGHq/3N/A7bGZE=
+		GBjW6D6meY34ehrxQXK9IF2x3XU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -345,7 +345,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		tlJbdVbnzyI7WhIS/NlLTOcayII=
+		w/pJlMalxZqr8UDlatk+7cLj4g0=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -407,7 +407,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xYwb3rNY5s8T3ExXI+raXeVqyeeUL3DCQpUVNiG/xSw=
+			Y/zSTU38Y1kJ9wFhbVeyq0PNvpyIuirTXKHogMBz0bY=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -435,14 +435,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/2Ry99YdwWo0Bx74jHB0JA0XUhF+ABbu+lWZzPmfWQ4=
+			JUYXKOg4ABakyKZVb0dslNQDXcDuqnZ5KiBbeHn6TJw=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xYwb3rNY5s8T3ExXI+raXeVqyeeUL3DCQpUVNiG/xSw=
+			Y/zSTU38Y1kJ9wFhbVeyq0PNvpyIuirTXKHogMBz0bY=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -470,7 +470,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6rrJiVl4+Sjf63gCQ/vhN3ofaw2cXh++4nn2PwIAfvs=
+			utU+e2pQN1eHqh56B23BGNx8Au04YOrYdTIPad3btaU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -816,7 +816,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iHwqW+P5ym2tP1B+Q+cp4TvcdxSYnn3Rqum51Ek6ofM=
+			K1SDYDECNOCjK5DD/BsyYi3f2XIxPgzeVmG/D1ZKSgc=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>

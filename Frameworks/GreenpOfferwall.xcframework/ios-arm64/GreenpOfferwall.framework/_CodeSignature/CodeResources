@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		/foo3BXo2CWZYgUK+WGNUFc6q/A=
+		9mhp9UOhZLb5ntjdc65/KAa2BYM=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2kUMmR+/8v5NPVI6UIqLpwEXQNQ=
+		vK/fKt9Pcw62y1L9Ef3O0E430eI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -325,7 +325,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		KNdfTHUJEvchVZNKqyOLQ3ZtvpI=
+		LZYTQsxCJgBAxoyl5H0dVembuOo=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -387,7 +387,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4RFnHL6dWOmK7hIWo+j22tvNnDEWabAjADTozJ7et88=
+			rMeJnA70Lr2GbXvWN/gNmWXJ6edbC2mDqB45wyzlLow=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -415,7 +415,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gv0kUKHYMujo24Zc0RlopYuUd5FPI2myEOYyaRO8bTA=
+			k738wzYvPO6UvnhxGRU/+O1h7hfa+ztgyc4uIJR6YfA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -761,7 +761,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			APPY8ErBSm3noJIlpCVJy0UxRmOSONIPgYjH+5Q916M=
+			p/VWAwX0hXl0GrOstpCNgW4p35E4GeGCt0fsr7H00vU=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
