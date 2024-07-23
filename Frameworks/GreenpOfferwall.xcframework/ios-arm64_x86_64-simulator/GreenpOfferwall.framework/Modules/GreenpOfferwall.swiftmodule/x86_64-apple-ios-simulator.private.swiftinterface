@@ -40,8 +40,9 @@ public class GreenpFlutter {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
 }
-public protocol GreenPDelegate : AnyObject {
-  func greenPSettingsDidEnd(with message: Swift.String)
+@objc public protocol GreenPDelegate {
+  @objc optional func greenPSettingsDidEnd(with message: Swift.String)
+  @objc optional func greenPSettingsDidEnd(with message: Swift.String, result: Swift.Bool)
 }
 open class GreenPSettings {
   public init(delegate: any GreenpOfferwall.GreenPDelegate)
