@@ -6,7 +6,7 @@
 	<dict>
 		<key>AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
-		tBwXDLUwn+jMktQV+fsnTNJYvMw=
+		kTBcbUn0KGEajiajgM2LBRpRXV4=
 		</data>
 		<key>AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ZHT5FrMKijDNVpdyPF0ISnABtv0=
+		fAX06kFtOAEzC1gQGdMEmgG5w9k=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		B71XncgUJZGP+4CuX7UdN3VsYLI=
+		Qind0vBa0fnIRVp2l60Vus7qbw8=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1aTgphUgYCqk/HNIh8OG/QZlH9s=
+		/0LajOKJ21+W2YV4OiDC4P/6NC0=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		GpyJzAOcr2qNbYM7uOIYxdiCa+4=
+		pKvLfg5sXhjMeOI/DHu1BL6Ptgw=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b78P1DwZxqaGweJ/T6jwCIlj9wQ=
+		yKWFPINp3G7jEh0FQkJKGZllhzs=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		GpyJzAOcr2qNbYM7uOIYxdiCa+4=
+		pKvLfg5sXhjMeOI/DHu1BL6Ptgw=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LPwQMw6AjN5VuSKKsuL2t0kIO3g=
+		/ieHK/7w65+hE17GjfeacmG+9k0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,7 +119,7 @@
 		</dict>
 		<key>PAGAdSDK.bundle/biz.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -264,7 +264,7 @@
 		</data>
 		<key>PAGAdSDK.bundle/template.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -329,7 +329,7 @@
 		</data>
 		<key>UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		B0cBxLSCW98vpj+cFPghejtzalg=
+		g7ix2Oq1G28Yk+MhTiQLth7qnRU=
 		</data>
 		<key>UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -345,7 +345,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		w/pJlMalxZqr8UDlatk+7cLj4g0=
+		I+H+NHvUC891zYAQ3GusWx03bm8=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -358,7 +358,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ahOL1GsbAteOBBSRC5ZWmoOyx8yUQ8JRNzxRq74XAvQ=
+			+cmtOIoG3RANO+oXWpSVyJXlKVOMeRv5tcVUef9+Src=
 			</data>
 		</dict>
 		<key>AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -372,14 +372,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aFTyO2sQDWSI0b6tfbwUpug39bfotjorYrtkkWjuw0A=
+			UTTFWeL4cD/DJZBmWVXB6R2BZc57hkz6MtIAm7Uj7jU=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p3RBqztBl8/e+coTFHR1FT8X90oqb1rE2z1Usyp0Cdc=
+			nW+zZtXRTtWeoqeSzOY4vqDJBzgE38ppi6zOM3oQFrc=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -407,7 +407,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lPk83aaH222yvxIdtYallaxozI/GiTXMB+A091gp18U=
+			hRbc78s9JkaKpfaPAoNq4PWoAzXvMPkT9tPXZQNlyok=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -435,14 +435,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qfI3JAx1iZ+1gyjBbDppqvOCaOQcooE8tiNNN2tol18=
+			p9XogK/hFaNrbpt9T6N5VpetKWg5FGWDoQJVsuUsLh8=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lPk83aaH222yvxIdtYallaxozI/GiTXMB+A091gp18U=
+			hRbc78s9JkaKpfaPAoNq4PWoAzXvMPkT9tPXZQNlyok=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -470,7 +470,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Scf8eQqARLlKgtUXfigrHLk/pBvkcGnotllldBiw0/w=
+			WLjDa0vmzA5PcGMRQm6DQLCrDQXrFIR7gU8qAxPSTr0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -542,7 +542,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -708,7 +708,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -788,7 +788,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bEn5pXBvnOzJMVS6iI8I75hZbnIxHcLDGO8ChcIRvdg=
+			uIHtJvNZ2bXK0IuB/Beg9dtrAgGdyNHkKCLLocjbY+Q=
 			</data>
 		</dict>
 		<key>UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -816,7 +816,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K1SDYDECNOCjK5DD/BsyYi3f2XIxPgzeVmG/D1ZKSgc=
+			1vSzVqAInUEh8bc67fxgr3c+WbLJk1P6D4a7slBo+sk=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
-		j4BXeJiElfTFYxCOi95Dpt9GgQU=
+		VQqan6Zx/z/kpJe+W2lF6d6uQvM=
 		</data>
 		<key>AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ZHT5FrMKijDNVpdyPF0ISnABtv0=
+		fAX06kFtOAEzC1gQGdMEmgG5w9k=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		wscnr7BaAbAJyYA6n9A26vlTWB4=
+		S0C84tCcpcvwAZ+4wl5A5JmO19A=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UaCAPrmQZFT8fBaQo94ArahjkOs=
+		08OdEpTr9o02fb6Jx9DBgGIQXEE=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		08NSKdGh7KC53MasUysMnWLXiGA=
+		y+k6YlGirrZBpteDcFDHVqFJdVg=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		9P7FAQM2FqvgBQBNl31NPOt8Qjc=
+		60w6EnifeX5rT42o3CMtMUrEg9g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,7 +99,7 @@
 		</dict>
 		<key>PAGAdSDK.bundle/biz.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -244,7 +244,7 @@
 		</data>
 		<key>PAGAdSDK.bundle/template.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -309,7 +309,7 @@
 		</data>
 		<key>UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		gMMYRPEnhb4Fzt81RWS5Ncok8YM=
+		s7xLuliPxrlOxJb5Xaibt4o5Y+s=
 		</data>
 		<key>UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -325,7 +325,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		LZYTQsxCJgBAxoyl5H0dVembuOo=
+		gBo9L7/f17ow0rMyLzfFuuyj5Bc=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -338,7 +338,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UvPgb73HLngFgrUTX/mQO1DlCyoQMVo9n9Mb4s5ZbVE=
+			7unZN0/rWHVrShRGOLRwiAAAfJLKW15VriyHSZ7h1cw=
 			</data>
 		</dict>
 		<key>AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -352,14 +352,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aFTyO2sQDWSI0b6tfbwUpug39bfotjorYrtkkWjuw0A=
+			UTTFWeL4cD/DJZBmWVXB6R2BZc57hkz6MtIAm7Uj7jU=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V/+hPCwF2bXspwxMAi30Arve08mdrIIokrSoaZqey9s=
+			odDSmJZRtT9lsgRjTENIVI/Rwl+Q+BVO8v486LZDc8M=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -387,7 +387,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			luuI/uAhvI3r/laHzHxHdAu6UT4LIaK++iEgFeUo/O4=
+			AJHym1DcWJwrZyHymqwHDFMvpjTWABErVYIdz6ZlH1E=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -415,7 +415,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2aGefLt3VTba7rzswGP1UKMj3AWavZxnijb3yZjC5BE=
+			YTGwTL/iVK41HB2YNBan1B1C9j4kZj4wDLK9cgjr3JU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -487,7 +487,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -653,7 +653,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -733,7 +733,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CeyDDvZIiNYmEKcmQGgnT2LV6gW0Rof3+cwR5TeVTzw=
+			C/kNEBpAFR2ThupmBGfMyxiLK3IX7R/frvg6NpKDnEA=
 			</data>
 		</dict>
 		<key>UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -761,7 +761,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p/VWAwX0hXl0GrOstpCNgW4p35E4GeGCt0fsr7H00vU=
+			gavZImUeK6jPwRDdqvoKcDmwjvQXXAAj6RmMsq59mT0=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
