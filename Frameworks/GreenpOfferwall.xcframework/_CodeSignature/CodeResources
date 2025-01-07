@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		QbKHruoqB+xC07CATkXqNAjumeY=
+		JnnFekelkc1wwkLSfojHenHte6g=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -99,7 +99,7 @@
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/biz.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -244,7 +244,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/template.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -325,7 +325,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		gBo9L7/f17ow0rMyLzfFuuyj5Bc=
+		rTbH9k1zEI7JBv32YAbSDZkIMp0=
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -333,7 +333,7 @@
 		</data>
 		<key>ios-arm64/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bdbbPTRgh833qidA3fLgAB60f0o=
+		jATGur2evnzG8xc9GJUiXV601Ro=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
@@ -357,7 +357,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/GreenpOfferwall</key>
 		<data>
-		JnGUWSOcSFqnIS6xQkQOD/+YsPM=
+		iCYUDDaGpHaC4TLuFiXammwRzXM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
 		<data>
@@ -446,7 +446,7 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/biz.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -591,7 +591,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/template.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -672,7 +672,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		I+H+NHvUC891zYAQ3GusWx03bm8=
+		KfmTSCJdgguUXh0TXnHd1OikoNs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -680,7 +680,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/_CodeSignature/CodeResources</key>
 		<data>
-		gxZG9IAUbouKSfYrUjTaHflsEfs=
+		a+z7+W3RD42RuOngrp/f1s7+R80=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -744,11 +744,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QbKHruoqB+xC07CATkXqNAjumeY=
+			JnnFekelkc1wwkLSfojHenHte6g=
 			</data>
 			<key>hash2</key>
 			<data>
-			6tQaUUVvR5RGrc0TU74cMPsMDVBYuPSNrS/zuzEnaQo=
+			EtnBiuRZQwM3fIn+AtR1Cc3qRcZEvZ7QmWMG1VRb6H0=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -933,11 +933,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -1179,11 +1179,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -1343,11 +1343,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gBo9L7/f17ow0rMyLzfFuuyj5Bc=
+			rTbH9k1zEI7JBv32YAbSDZkIMp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			gavZImUeK6jPwRDdqvoKcDmwjvQXXAAj6RmMsq59mT0=
+			5lku1Jnk/bca8QOe3Qry1E6m15nfkRMOxYv74QeJhS8=
 			</data>
 		</dict>
 		<key>ios-arm64/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1365,11 +1365,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bdbbPTRgh833qidA3fLgAB60f0o=
+			jATGur2evnzG8xc9GJUiXV601Ro=
 			</data>
 			<key>hash2</key>
 			<data>
-			wSWT+53ddpD0s2BromBEKPVKL+3imNoQkiDvRlUumoM=
+			I/VgOURrEp908AyNNZSHHohbE5wjbYJKjB5TkMaFUog=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/AdsGlobalSDK.bundle/Info.plist</key>
@@ -1431,11 +1431,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JnGUWSOcSFqnIS6xQkQOD/+YsPM=
+			iCYUDDaGpHaC4TLuFiXammwRzXM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dPKTtG1aJ8WX1sB9I5HGX9P1/oZ58cf4eN1/d8jDU+8=
+			+ViL7aOkygLO+6MqHNBJ7+Hiz6/LTCj19L30nm2LkfM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/Headers/GreenpOfferwall-Swift.h</key>
@@ -1664,11 +1664,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -1910,11 +1910,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -2074,11 +2074,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I+H+NHvUC891zYAQ3GusWx03bm8=
+			KfmTSCJdgguUXh0TXnHd1OikoNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			1vSzVqAInUEh8bc67fxgr3c+WbLJk1P6D4a7slBo+sk=
+			L4GH69fZ8IF/9byfZ1KSw5+IJw/6iR5sIfZu+PdbGZ0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GreenpOfferwall.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -2096,11 +2096,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gxZG9IAUbouKSfYrUjTaHflsEfs=
+			a+z7+W3RD42RuOngrp/f1s7+R80=
 			</data>
 			<key>hash2</key>
 			<data>
-			tBtPXmKUAic6QBRkfxwGEv+1V3NZLnr3bMlbyWfyi0g=
+			Xh2R2BshrbeO5pqH2xxKra//4q17440D1s/AAIfsqiQ=
 			</data>
 		</dict>
 	</dict>
