@@ -2651,7 +2651,7 @@
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/UAd\/SplashUAdBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 390,
+      "offset": 440,
       "length": 5,
       "value": "false"
     },
@@ -3647,7 +3647,7 @@
       "kind": "StringLiteral",
       "offset": 738,
       "length": 7,
-      "value": "\"3.5.1\""
+      "value": "\"3.5.2\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Constants.swift",
