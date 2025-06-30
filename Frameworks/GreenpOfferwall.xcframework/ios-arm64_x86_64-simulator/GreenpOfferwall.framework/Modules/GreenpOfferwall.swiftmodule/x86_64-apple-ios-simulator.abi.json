@@ -3647,7 +3647,7 @@
       "kind": "StringLiteral",
       "offset": 738,
       "length": 7,
-      "value": "\"3.5.2\""
+      "value": "\"3.5.3\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Constants.swift",
@@ -4080,8 +4080,8 @@
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/Utils\/Logger.swift",
       "kind": "BooleanLiteral",
       "offset": 201,
-      "length": 4,
-      "value": "true"
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/GreenpOfferwall\/FeedList\/Common\/DetailViewModel.swift",
