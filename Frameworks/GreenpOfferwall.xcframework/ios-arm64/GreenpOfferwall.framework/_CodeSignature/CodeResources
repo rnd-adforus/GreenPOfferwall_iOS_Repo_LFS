@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZZvct9CxWnxheAZ0fMz3Si32BZo=
+		aeNobsU1cjBCZdFhPJlhlgeSgHo=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		7p7QsLsg+OdookLZe5BUkBVJqz0=
+		he860FfH51NdHUKpqOAfYVJvkv0=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		7p7QsLsg+OdookLZe5BUkBVJqz0=
+		he860FfH51NdHUKpqOAfYVJvkv0=
 		</data>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		XrSgnll8UK5Tq7/CMwTJCxiTynM=
+		CsWb2JOc0rWlqdhrax/u20FGl2k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,14 +100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h8V/cqS6aiFDL+SBklCOsWK1PkNoRQDutMDXPY5wsG0=
+			J39JZNB9TYJOhqySTOOdvR9GbKd/tdMYDYncXTqadX4=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6wKZqAHbGPrTjIf6lAJYhIiiGhOa1PGUZpG/CMPe2Sk=
+			ofn/6IaOlT27sUgc2RopTMFX52wHUgwbtPjnB1NGBuo=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -121,14 +121,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6wKZqAHbGPrTjIf6lAJYhIiiGhOa1PGUZpG/CMPe2Sk=
+			ofn/6IaOlT27sUgc2RopTMFX52wHUgwbtPjnB1NGBuo=
 			</data>
 		</dict>
 		<key>Modules/GreenpOfferwall.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QHbIfY//+iLRw8Epdyw74rmAXjdPR62Fq5aePHNr7+o=
+			nMPvcig0UmV1oQDu8IlPpqeS6tlgIce55YNnd8WjBUg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

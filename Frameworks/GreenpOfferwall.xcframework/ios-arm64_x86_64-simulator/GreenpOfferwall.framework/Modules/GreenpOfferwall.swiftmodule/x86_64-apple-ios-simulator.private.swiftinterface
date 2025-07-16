@@ -48,6 +48,7 @@ open class GreenPSettings : @unchecked Swift.Sendable {
   public func setRandomUser(isRandom: Swift.Bool)
   public func setAppUniqKey(key: Swift.String)
   public func setAuthMessage(msg: Swift.String)
+  public func show()
   public func show(on viewController: UIKit.UIViewController)
   @objc deinit
 }
